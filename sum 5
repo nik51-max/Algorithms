@@ -1,0 +1,6 @@
+ver sum
+ver 5
+for (0;x<6;X+1){ 
+sum = x + sum ;
+}
+alart (sum)
