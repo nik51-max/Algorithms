@@ -1,0 +1,6 @@
+var sum = 1
+var x
+for (x;x>0;X-=1) {
+sum*=X
+}
+alert (sum)
